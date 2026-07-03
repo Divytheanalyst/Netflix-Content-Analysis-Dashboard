@@ -94,7 +94,7 @@ The dashboard provides insights into:
 
 ## 📷 Dashboard Preview
 
-![Netflix Dashboard](Netflix.Dashboard.png)
+![Dashboard](Netflix Dashboard.png)
 ---
 
 ## 📁 Repository Structure
